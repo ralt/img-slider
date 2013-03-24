@@ -2,4 +2,9 @@
 
 var slider = require('../lib/index.js');
 
-slider('.slider');
+// Fake way to get the css location on file:///
+var location = window.location.pathname.split('/');
+location.pop();
+location.pop();
+
+slider('.slider', location.join('/'));

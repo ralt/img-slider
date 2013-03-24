@@ -6,6 +6,8 @@
     "main": "lib/index.js",
     "dependencies": {
         "by": "0.2.x",
-        "foreach-shim": "0.1.x"
+        "foreach-shim": "0.1.x",
+        "dom-create": "0.1.x",
+        "dom-append": "0.1.x"
     }
 }
