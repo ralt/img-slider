@@ -1,0 +1,9 @@
+{
+    "name": "img-slider",
+    "description": "Provides an image slider.",
+    "version": "0.1.0",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "lib/index.js",
+    "dependencies": {
+    }
+}
